@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50348bcd-a36a-421d-bfd0-d50703830e93" name="Changes" comment="Lab 5 JSON">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temperature.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/can-be-senator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_order_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validGPA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather.js" afterDir="false" />
+    <list default="true" id="50348bcd-a36a-421d-bfd0-d50703830e93" name="Changes" comment="Lab 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_order_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/tree_order_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mn8300xw"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mn8300xw/Lab5.git",
+    "accountId": "e8cb085b-8d50-4b7e-9bda-d36f3a496398"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -108,8 +105,17 @@
       <workItem from="1739494790291" duration="44008000" />
       <workItem from="1740095617372" duration="10459000" />
       <workItem from="1740354797260" duration="6204000" />
-      <workItem from="1740617003571" duration="594000" />
+      <workItem from="1740617003571" duration="7094000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab 5">
+      <option name="closed" value="true" />
+      <created>1740621319643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740621319643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +131,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab5$tree_order_form_html.dat" NAME="tree_order_form.html Coverage Results" MODIFIED="1740354937824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
