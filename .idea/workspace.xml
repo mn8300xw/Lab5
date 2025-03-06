@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50348bcd-a36a-421d-bfd0-d50703830e93" name="Changes" comment="Lab 5 tree form update" />
+    <list default="true" id="50348bcd-a36a-421d-bfd0-d50703830e93" name="Changes" comment="Lab 5 tree form update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mn8300xw"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mn8300xw&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mn8300xw/Lab5.git",
-    "accountId": "e8cb085b-8d50-4b7e-9bda-d36f3a496398"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mn8300xw/Lab5.git&quot;,
+    &quot;accountId&quot;: &quot;e8cb085b-8d50-4b7e-9bda-d36f3a496398&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -102,7 +104,8 @@
       <workItem from="1739494790291" duration="44008000" />
       <workItem from="1740095617372" duration="10459000" />
       <workItem from="1740354797260" duration="6204000" />
-      <workItem from="1740617003571" duration="7573000" />
+      <workItem from="1740617003571" duration="7926000" />
+      <workItem from="1740803279785" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 5">
       <option name="closed" value="true" />
@@ -120,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740665373041</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab 5 tree form update">
+      <option name="closed" value="true" />
+      <created>1740665579386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740665579386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
