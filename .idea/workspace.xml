@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50348bcd-a36a-421d-bfd0-d50703830e93" name="Changes" comment="Lab 5 tree form update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_order_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/tree_order_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +62,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rosem/WebstormProjects/lab-7-capital-city-quiz-mn8300xw&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -106,6 +109,8 @@
       <workItem from="1740354797260" duration="6204000" />
       <workItem from="1740617003571" duration="7926000" />
       <workItem from="1740803279785" duration="596000" />
+      <workItem from="1741220255185" duration="319000" />
+      <workItem from="1741225260662" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 5">
       <option name="closed" value="true" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740665579386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab 5 tree form update">
+      <option name="closed" value="true" />
+      <created>1741220546295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741220546295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

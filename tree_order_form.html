@@ -88,7 +88,7 @@
         <td class="alignment">State:</td><td id="state2"></td>
     </tr>
     <tr>
-        <td class="alignment">Zip Code:</td><td id="zipcode2"></td>
+        <td class="alignment">Zip Code:</td><td id="zipCode2"></td>
     </tr>
     <tr>
         <td class="alignment">Tree Type:</td><td id="tree"></td>
@@ -119,6 +119,7 @@
     submitButton.addEventListener('click', function() {
 
         let isValid = true;
+        homeownerNameInput.classList.remove('error')
         errorMessageName.textContent = '';
         errorMessageHouse.textContent = '';
         errorMessageStreet.textContent = '';
@@ -149,6 +150,7 @@
             errors.push('Enter a name')
             errorMessageName.textContent = 'Name Required';
             isValid = false;
+            homeownerNameInput.classList.add('error')
         }
         if (houseNumber === '') {
             errors.push('Enter a house number');
@@ -183,9 +185,9 @@
             errorMessageTree.textContent = 'Tree Type Required';
             isValid = false;
         }
-        if (name !== '' && houseNumber !== '' && streetName !== '' && zipCode !== '' && city !== ''&& treeType !== '') {
-             printInput();
-             isValid = true;
+        if (isValid) {
+            printInput();
+
               // If there are any errors after checking all the input elements,
               // display an alert with all the error messages. (Hint: use join)
               // and then return from this function to prevent further processing
